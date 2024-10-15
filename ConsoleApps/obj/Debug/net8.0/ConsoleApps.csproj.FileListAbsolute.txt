@@ -1,0 +1,14 @@
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ConsoleApps.AssemblyInfoInputs.cache
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ConsoleApps.AssemblyInfo.cs
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\bin\Debug\net8.0\ConsoleApps.exe
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\bin\Debug\net8.0\ConsoleApps.deps.json
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\bin\Debug\net8.0\ConsoleApps.runtimeconfig.json
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\bin\Debug\net8.0\ConsoleApps.dll
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\bin\Debug\net8.0\ConsoleApps.pdb
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ConsoleApps.dll
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\refint\ConsoleApps.dll
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ConsoleApps.pdb
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ConsoleApps.genruntimeconfig.cache
+C:\Users\Bibek Neupane\source\repos\ConsoleApps.Practice\ConsoleApps\obj\Debug\net8.0\ref\ConsoleApps.dll
