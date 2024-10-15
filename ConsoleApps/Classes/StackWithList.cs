@@ -1,4 +1,5 @@
-﻿using ConsoleApps.Interfaces;
+﻿using BenchmarkDotNet.Attributes;
+using ConsoleApps.Interfaces;
 
 namespace ConsoleApps.Classes
 {
@@ -11,9 +12,10 @@ namespace ConsoleApps.Classes
             stack = new List<int>();
         }
 
+        [Benchmark]
         public void Display()
         {
-            if (!stack.Any())
+            if (stack.Count == 0)
             {
                 Console.WriteLine("The stack is empty.");
             }
@@ -25,7 +27,7 @@ namespace ConsoleApps.Classes
 
         public int Pop()
         {
-            if (!stack.Any())
+            if (stack.Count == 0)
             {
                 Console.WriteLine("The stack is empty.");
                 return -1;
