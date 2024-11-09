@@ -15,20 +15,15 @@ namespace ConsoleApps.Classes
         [Benchmark]
         public void Display()
         {
-            stack = new List<int>();
             /*if (stack is null)
             {
                 Console.WriteLine("Stack is empty.");
             }*/
-            if (stack.Count == 0)
-            {
-                Console.WriteLine("Null");
-            }
-
-            if (stack.Count == 0)
+            if (!stack.Any())
             {
                 Console.WriteLine("The stack is empty.");
             }
+
             foreach (var item in stack)
             {
                 Console.WriteLine($"{item}");
